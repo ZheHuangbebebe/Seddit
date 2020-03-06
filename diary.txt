@@ -1,0 +1,6 @@
+30/07/19     15:20	20:00   coding level 0 subset
+02/08/19     13:00	17:30   coding login and signup page level 1
+03/08/19     13:10   19:00   coding feed page and fixing bugs
+04/08/19     15:00   23:40   coding upvote and commit modal
+05/08/19	    12:50   19:00   coding level 2 subset
+07/08/19     13:20 	17:30   fixing bugs

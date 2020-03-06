@@ -1,0 +1,50 @@
+
+.post {
+  display: flex;
+  overflow: hidden;
+  margin: 20px 0;
+  background-color: white;
+  border: 1px solid var(--reddit-grey);
+}
+
+.post .vote {
+  width: 35px;
+  background-color: var(--reddit-light-grey);
+}
+
+.post .content {
+  padding: 10px;
+}
+
+.post-title {
+  margin: 0;
+}
+
+.post-author {
+  margin: 5px 0;
+  font-size: 12px;
+  color: var(--reddit-blue);
+}
+
+.upvote{
+  text-align: center;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color:  var(--reddit-blue);
+}
+
+.text{
+  font-family: "Times New Roman", Times, serif;
+}
+.page-button{
+  border: 1px solid var(--reddit-blue);
+  border-radius: 4px;
+  text-transform: uppercase;
+  padding: 7.5px 15px;
+  font-weight: bold;
+  color: var(--reddit-blue);
+}
+
+.highlight{
+ color:rgb(147, 208, 255);
+}

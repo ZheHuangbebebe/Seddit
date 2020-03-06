@@ -1,0 +1,41 @@
+#uname {
+    background-color: var(--reddit-bg-color);
+    font: inherit;
+    font-size: var(--body-text-size);
+    border: none;
+    padding: 7.5px 15px;
+    outline: none;
+    border: 1px solid var(--reddit-grey);
+    border-radius: 4px;
+}
+  
+#uname::placeholder {
+    letter-spacing: 0.5px;
+    font-size: var(--body-text-size);
+}
+  
+#uname:focus {
+    background-color: white;
+    border-color: var(--reddit-blue);
+}
+
+#psw {
+    background-color: var(--reddit-bg-color);
+    font: inherit;
+    font-size: var(--body-text-size);
+    border: none;
+    padding: 7.5px 15px;
+    outline: none;
+    border: 1px solid var(--reddit-grey);
+    border-radius: 4px;
+}
+  
+#psw::placeholder {
+    letter-spacing: 0.5px;
+    font-size: var(--body-text-size);
+}
+  
+#psw:focus {
+    background-color: white;
+    border-color: var(--reddit-blue);
+}
